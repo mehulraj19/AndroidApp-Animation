@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <scale
+        android:duration="3000"
+        android:fromXScale="@integer/material_motion_duration_short_1"
+        android:fromYScale="@integer/material_motion_duration_short_1"
+
+        android:toXScale="@integer/material_motion_duration_short_2"
+        android:toYScale="@integer/material_motion_duration_short_2"
+        />
+
+</set>
